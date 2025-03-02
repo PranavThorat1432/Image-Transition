@@ -15,9 +15,8 @@ A simple **Image Transition Effect** where you can compare two images with a dra
 
 ## 🎥 Preview
 
-![Demo GIF](images/demo.gif)  
+[LINK](https://image-transition-pi.vercel.app/)  
 
-*(Replace with an actual GIF or image of your project in action)*
 
 ---
 
