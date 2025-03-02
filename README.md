@@ -1,4 +1,4 @@
-![img2](https://github.com/user-attachments/assets/50f3ea50-dd74-4fcf-9bb8-ae4168ae1161)# 🖼️ Image Transition
+# 🖼️ Image Transition
 
 A simple **Image Transition Effect** where you can compare two images with a draggable slider. This project demonstrates how to create a smooth transition between two images using **HTML, CSS, and JavaScript**.
 
@@ -89,6 +89,8 @@ Follow these simple steps to run the project on your local machine.
 ![img1](https://github.com/user-attachments/assets/7a8f1e7c-7a96-4c6a-abcb-180c9439af26)
 
 ![img2](https://github.com/user-attachments/assets/8fb8166b-2886-418e-9c79-87387bb1d044)
+
+![img3](https://github.com/user-attachments/assets/0f4cec7c-9350-4c13-8017-5e48f8090fcb)
 
 ---
 
