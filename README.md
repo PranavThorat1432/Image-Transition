@@ -86,7 +86,7 @@ Follow these simple steps to run the project on your local machine.
 
 ## 🎨 Screenshot
 
-*(Add a static image preview of your project here)*
+![img1](https://github.com/user-attachments/assets/7a8f1e7c-7a96-4c6a-abcb-180c9439af26)
 
 ---
 
